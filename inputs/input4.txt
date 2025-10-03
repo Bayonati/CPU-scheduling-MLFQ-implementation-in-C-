@@ -1,0 +1,5 @@
+# Archivo: mlq001.txt
+# etiqueta; burst time (BT); arrival time (AT);Queue (Q);Priority(5>1)
+A;10;1;5;5
+B;4;0;5;5
+C;5;0;5;5
